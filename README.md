@@ -14,7 +14,7 @@ https://fierce-lowlands-38129.herokuapp.com/
    1. [Contribution Guidelines](#contribution)
 3. [Questions](#questions)
 
-<a id="description"></a>g
+<a id="description"></a>
 
 ### Description of application
 
